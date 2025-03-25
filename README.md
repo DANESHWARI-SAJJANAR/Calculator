@@ -39,13 +39,3 @@ This is a simple calculator mini project implemented in Java that allows users t
 - Adding a history feature to track previous calculations.
 - Improving the UI for a better user experience.
 
-## Contributors
-- [Your Name]
-- [Contributor 2]
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any issues or improvements, please reach out to [your email] or create an issue in the repository.
-
