@@ -34,9 +34,6 @@ This is a simple calculator mini project implemented in Java that allows users t
 3. Click the "Calculate" button to get the result.
 4. View the result displayed on the screen.
 
-## Screenshots
-(Add screenshots of your calculator UI if applicable)
-
 ## Future Enhancements
 - Implementing advanced operations like square root, exponentiation, and modulus.
 - Adding a history feature to track previous calculations.
