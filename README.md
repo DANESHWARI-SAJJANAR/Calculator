@@ -16,11 +16,11 @@ This is a simple calculator mini project implemented in Java that allows users t
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/calculator-mini-project.git
+   git clone https://github.com/DANESHWARI-SAJJANAR/Calculator
    ```
 2. Navigate to the project directory:
    ```sh
-   cd calculator-mini-project
+   cd Calculator
    ```
 3. Compile and run the project:
    ```sh
