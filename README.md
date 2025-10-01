@@ -72,10 +72,6 @@ Follow these steps to run the project on your local system:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to **fork** this repo, make changes, and submit a pull request.
-
 ---
 
 ## 📜 License
